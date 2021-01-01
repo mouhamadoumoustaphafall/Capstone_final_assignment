@@ -1,1 +1,20 @@
-Every city is built on different circumstances, environment and different constraints. I am going to compare the neighborhoods of of 2 major columns and how can they be compared with respect to places to eat, better connectivity to several useful regions and how are they distributed around both cities. The places I will be considering are airports, metro, coffee shop, restaurants, schools, college, general stores, hospitals etc. The audience will be tourists who consider travelling through financial capital of the 2 countries analyzed and search for better neighborhoods suited for their needs.
+London is a great city. It is diverse, multicultural and full of opportunities. But there is also another
+side to its popularity and appeal. London is an expensive place to live and thrive. Many businesses
+want to open a venue here and many pay top price to have their window on Piccadilly or Oxford
+Street. With such a competitive market and high revenues (London GDP accounts for 25% of the
+whole country`s) it is challenging for newcomers to find a great place to make their first steps and
+competition if fiercer than ever. In this situation, there is no such thing as too much data to help
+make that choice.
+Problem
+But what about those, who want to start their own business and cannot really afford to open in the
+City yet? Where is it best to open a new place? Where will it be cheapest and will have enough
+people living around to be popular? Where the competition is not too overwhelming?
+If we consider all of these questions, it might be a good idea to turn to data on the outer London
+boroughs, to look into the numbers with a bit more scrutiny.
+Interest
+The analysis will be of interest to the following groups:
+1. First time entrepreneurs, who want to start their first business. Below dataset will give a
+comprehensive insight into where best to open a new venue, to maximise the value for
+money.
+2. People who already run a business and want to branch out. Given the extra information,
+it may provide valuable information before decision making.
